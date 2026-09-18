@@ -1,4 +1,14 @@
-## Hi there 👋
+## Backend developer
+
+## 🚀 Tech Stack
+
+### Backend & Databases
+![Rust](https://shields.io)
+![Go](https://shields.io)
+![SQL](https://shields.io)
+
+### Frontend
+![Vue.js](https://shields.io)
 
 <!--
 **old-sorcerer27/old-sorcerer27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
