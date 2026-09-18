@@ -1,16 +1,15 @@
 ## Backend developer
 
 ## 🚀 Tech Stack
-<div>
+
   ### Backend & Databases
   ![Rust](https://shields.io)
   ![Go](https://shields.io)
   ![SQL](https://shields.io)
-</div>
-<div>
+
   ### Frontend
   ![Vue.js](https://shields.io)
-</div>
+
 
 ## 📫 Connect with me
 [<img alt="Telegram" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/OldSorcerer2760) [OldSorcerer2760](https://t.me/OldSorcerer2760)  
