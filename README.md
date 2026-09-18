@@ -1,26 +1,18 @@
 ## Backend developer
 
 ## 🚀 Tech Stack
+<div>
+  ### Backend & Databases
+  ![Rust](https://shields.io)
+  ![Go](https://shields.io)
+  ![SQL](https://shields.io)
+</div>
+<div>
+  ### Frontend
+  ![Vue.js](https://shields.io)
+</div>
 
-### Backend & Databases
-![Rust](https://shields.io)
-![Go](https://shields.io)
-![SQL](https://shields.io)
+## 📫 Connect with me
+[<img alt="Telegram" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/OldSorcerer2760) [OldSorcerer2760](https://t.me/OldSorcerer2760)  
+[<img alt="Gmail" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />](mailto:olegshilo60@gmail.com) [olegshilo60@gmail.com](mailto:olegshilo60@gmail.com)
 
-### Frontend
-![Vue.js](https://shields.io)
-
-<!--
-**old-sorcerer27/old-sorcerer27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
